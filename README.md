@@ -37,10 +37,10 @@ codons Ncodons in the entry)
 
 The dataset features two classification problems. In the first, the goal is to classify samples in 11 different
 classes based on the value of the attribute Kingdom
-• Kingdom (11 classes): a three letter code referring to the organism species. In particular, identifiers are: ’arc’ (archaea), ’bct’ (bacteria), ’phg’ (bacteriophage), ’plm’ (plasmid), ’pln’ (plant), ’inv’
+1. Kingdom (11 classes): a three letter code referring to the organism species. In particular, identifiers are: ’arc’ (archaea), ’bct’ (bacteria), ’phg’ (bacteriophage), ’plm’ (plasmid), ’pln’ (plant), ’inv’
 (invertebrate), ’vrt’ (vertebrate), ’mam’ (mammal), ’rod’ (rodent), ’pri’ (primate), and ’vrl’ (virus)
 The second tasks is similar, but samples are classified based on the DNA type:
-• DNAtype (11 classes): an identifier referring to the type of DNA sample: 0 (genomic), 1 (mitochondrial), 2 (chloroplast), 3 (cyanelle), 4 (plastid), 5 (nucleomorph), 6 (secondary endosymbiont), 7 (chromoplast), 8 (leucoplast), 9 (NA), 10 (proplastid), 11 (apicoplas), and 12 (kinetoplast)
+2. DNAtype (11 classes): an identifier referring to the type of DNA sample: 0 (genomic), 1 (mitochondrial), 2 (chloroplast), 3 (cyanelle), 4 (plastid), 5 (nucleomorph), 6 (secondary endosymbiont), 7 (chromoplast), 8 (leucoplast), 9 (NA), 10 (proplastid), 11 (apicoplas), and 12 (kinetoplast)
 
 ## Requests
 1. Perform a preliminary analysis on the data. For instance, but not limited to, visualize samples,
